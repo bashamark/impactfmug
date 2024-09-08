@@ -1,10 +1,10 @@
 {
   "radio": [
     {
-      "radio_name": "MCF Radio 98.7fm",
+      "radio_name": "Impact fm 98.4",
       "radio_genre": "Gospel Radio",
-      "radio_url": "https://streams.radio.co/s79fbbb432/listen",
-      "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
+      "radio_url": "http://streamfi-impactfm1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
+      "radio_image_url": "https://i.ibb.co/NSZP5mb/impactlogo.jpg",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "false",
       "song_metadata": "false",
@@ -16,7 +16,7 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/mcfsermons/home",
+      "privacy_policy_url": "https://sites.google.com/view/impactfmprivacy/home",
       "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
       "redirect_url": ""
     }
@@ -27,10 +27,10 @@
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-9523725970329735",
-      "admob_banner_unit_id": "ca-app-pub-9523725970329735/1582777730",
-      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951779",
-      "admob_native_unit_id": "ca-app-pub-9523725970329735/3418501959",
-      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/1694103157",
+      "admob_banner_unit_id": "ca-app-pub-9523725970329735/1582777700",
+      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951700",
+      "admob_native_unit_id": "ca-app-pub-9523725970329735/3418501900",
+      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/1694103100",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -55,39 +55,20 @@
       "wortise_interstitial_unit_id": "test-interstitial",
       "wortise_native_unit_id": "test-native",
       "wortise_app_open_ad_unit_id": "test-app-open",
-      "interstitial_ad_interval": 2
+      "interstitial_ad_interval": 1
     }
   ],
   "socials": [
-    {
-      "social_url": "https://mcfsermons.256cloud.com/",
-      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
-      "social_name": "AUDIO SERMONS (Opens in your Phone Chrome Browser)"
-    },
-    {
-      "social_url": "https://mcfsermons.256cloud.com/mcf-caster-fm-stream/",
-      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
-      "social_name": "MCF Caster FM Stream"
-    },
-    {
-      "social_url": "https://www.facebook.com/mutundwechristianfellowship",
-      "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
-      "social_name": "MCF Facebook Page"
-    },
-    {
-      "social_url": "https://www.youtube.com/@iive-elon.musk24/streams",
-      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-      "social_name": "MCF YouTube Channel"
-    },
-    {
-      "social_url": "https://chat.whatsapp.com/GHqNbRXC90mLVOW3o5gzFr",
-      "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-      "social_name": "Join Whatsapp Audio Group"
-    },
-    {
-      "social_url": "https://play.google.com/store/apps/details?id=com.gospel.ug",
-      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-      "social_name": "Download Uganda Gospel Music App"
-    }
+          {
+            "social_url": "https://www.facebook.com/Impactfmug",
+            "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
+            "social_name": "Impact Facebook Page"
+        },
+        {
+            "social_url": "https://www.youtube.com/@victoryuganda/streams",
+            "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+            "social_name": "Victory YouTube Channel"
+        }
+    
   ]
 }
